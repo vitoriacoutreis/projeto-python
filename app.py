@@ -26,17 +26,3 @@ if btn_form:
     st.write(f"seu aniversário é:{dt_nascimento}")
             
     
-st.markdown(
-    """
-    <style>
-    .stpython-senai {
-        background-image: url("https://i.pinimg.com/736x/0b/a4/3e/0ba43e4fed49f5c1a61d007784f80490.jpg");
-        background-size: cover;
-    }
-    </style>
-    <div class="stpython-senai">
-    </div>
-    """,
-    unsafe_allow_html=True,        
-)
- 
